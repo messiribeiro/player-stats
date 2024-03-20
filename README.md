@@ -16,10 +16,3 @@ Este é um simples site para buscar perfis de jogadores do Fortnite. Os usuário
 2. Insira o apelido do jogador do Fortnite no campo de busca.
 3. Clique no botão "Buscar" para visualizar o perfil do jogador.
 
-## Exemplo de Uso
-
-![Demonstração de Uso](./example.png)
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
