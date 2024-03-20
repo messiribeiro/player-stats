@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é um simples site para buscar perfis de jogadores do Fortnite. Os usuários podem inserir o apelido de um jogador no campo de busca e enviar o formulário para recuperar informações do perfil correspondente da API oficial do Fortnite. O site exibe detalhes como nome do jogador, nível do Passe de Batalha, vitórias, mortes, taxa de vitória, horas jogadas e relação entre mortes e mortes (K/D). A interface é responsiva e apresenta feedback visual para entradas inválidas ou erros.
+Este é um simples site para buscar perfis de jogadores do Fortnite. Os usuários podem inserir o apelido de um jogador no campo de busca e enviar o formulário para recuperar informações do perfil correspondente da API oficial do Fortnite. O site exibe detalhes como nome do jogador, nível do Passe de Batalha, vitórias, mortes, taxa de vitória, horas jogadas e relação entre mortes e mortes (K/D).
 
 ## Tecnologias Utilizadas
 
